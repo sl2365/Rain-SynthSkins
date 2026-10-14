@@ -7,6 +7,6 @@ These aren't really of any use other than a little fun to mess around with and m
 Downloads: I had to split each synth to a separate skin package due to forum upload size limits. Each package is complete in and of itself, though each contains duplicates. Each package contains a Common.inc file and two directories: ~Resources and Previews. Installing each package should in theory install to the same skin Config folder named Synths and overwrite the files that were already there should these be duplicates. Any issues, just ask. Enjoy! :D
 
 ```
-![Previews](Resources/Previews.gif)
+![Previews](Resources/_Previews.gif)
 
 ```
