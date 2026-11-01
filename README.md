@@ -12,4 +12,4 @@ Downloads: I had to split each synth to a separate skin package due to forum upl
 
 | Jp-8080 |
 |---|
-| ![Previews](Resources/- JP-8080.gif) |
+| ![Previews](Resources/JP-8080.gif) |
