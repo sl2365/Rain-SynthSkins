@@ -13,3 +13,27 @@ Downloads: I had to split each synth to a separate skin package due to forum upl
 | Jp-8080 |
 |---|
 | ![Previews](Resources/JP-8080.gif) |
+
+| Jp-8080 |
+|---|
+| ![Previews](Resources/MC-909.gif) |
+
+| Jp-8080 |
+|---|
+| ![Previews](Resources/MC-909ex.gif) |
+
+| Jp-8080 |
+|---|
+| ![Previews](Resources/MC-707.gif) |
+
+| Jp-8080 |
+|---|
+| ![Previews](Resources/SP-808.gif) |
+
+| Jp-8080 |
+|---|
+| ![Previews](Resources/XP-60.gif) |
+
+| Jp-8080 |
+|---|
+| ![Previews](Resources/Nova.gif) |
