@@ -1,4 +1,4 @@
-# Roland Synth Skins
+# Roland Synth Rainmeter Skins
 
 I came across a mock-ups of a Roland JP-8080 synth as a Roland Boutique. Whoever made it used blender and put in a great effort to make it look really good, lighting and all. This inspired me to make my own, except, I don't know blender, only Rainmeter and Paintdotnet. Sooo... Here's my valiant efforts at making some old classic synths into modern Roland Boutiques, after 3 months work and a little help from the forum! :thumbup:
 
@@ -9,3 +9,7 @@ Downloads: I had to split each synth to a separate skin package due to forum upl
 | First, here's a preview of the full package in action: |
 |---|
 | ![Previews](Resources/_Previews.gif) |
+
+| Jp-8080 |
+|---|
+| ![Previews](Resources/- JP-8080.gif) |
