@@ -4,7 +4,10 @@ I came across a mock-ups of a Roland JP-8080 synth as a Roland Boutique. Whoever
 
 These aren't really of any use other than a little fun to mess around with and maybe for users to get some ideas. I will release some components from these skins in a [separate thread](https://forum.rainmeter.net/viewtopic.php?t=45748) as these may actually be of some use to someone.
 
-Downloads: [![Release](https://img.shields.io/github/v/release/sl2365/Rain-SynthSkins?style=for-the-badge-square&logo=github&logoColor=white&color=Green)](https://github.com/sl2365/Rain-SynthSkins/releases/latest/download/Synths_2026.1.7.rmskin.rar)
+Downloads:
+
+[![Release](https://img.shields.io/github/v/release/sl2365/Rain-SynthSkins?style=for-the-badge-square&logo=github&logoColor=white&color=Green)](https://github.com/sl2365/Rain-SynthSkins/releases/latest/download/Synths_2026.1.7.rmskin.rar)
+
 Any issues, just ask. Enjoy! :D
 
 | First, here's a preview of the full package in action: |
