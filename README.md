@@ -7,6 +7,7 @@ These aren't really of any use other than a little fun to mess around with and m
 Downloads:
 
 [![Release](https://img.shields.io/github/v/release/sl2365/Rain-SynthSkins?style=for-the-badge-square&logo=github&logoColor=white&color=Green)](https://github.com/sl2365/Rain-SynthSkins/releases/latest/download/Synths_2026.1.7.rmskin.rar)
+[![Total Downloads](https://img.shields.io/github/downloads/sl2365/Rain-SynthSkins/total?style=for-the-badge-square&logo=github&logoColor=white&label=downloads-total&color=blue)](https://github.com/sl2365/Rain-SynthSkins/releases)
 
 Any issues, just ask. Enjoy! :D
 
